@@ -3,9 +3,9 @@
   <em>Full-Stack Developer | MERN & TypeScript Enthusiast | Open to Opportunities 💼</em>
 </p>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc3NGJ3YW1uandkcHdiY3E0aWRzYTVtaTg4MHE2YmxkMXZ3cmxrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="200" alt="coding gif"/>
 
 ---
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc3NGJ3YW1uandkcHdiY3E0aWRzYTVtaTg4MHE2YmxkMXZ3cmxrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="200" alt="coding gif"/>
 
 ### 👨‍💻 Who I Am
 - 💻 Full-stack developer turning ideas into real-world apps
