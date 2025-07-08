@@ -3,14 +3,14 @@
   <em>Full-Stack Developer | MERN & TypeScript Enthusiast | Open to Opportunities 💼</em>
 </p>
 
-
 ---
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc3NGJ3YW1uandkcHdiY3E0aWRzYTVtaTg4MHE2YmxkMXZ3cmxrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="200" alt="coding gif"/>
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc3NGJ3YW1uandkcHdiY3E0aWRzYTVtaTg4MHE2YmxkMXZ3cmxrNiZlcD12MV9pbnRlcm5hb19naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="200" alt="coding gif" style="margin-left: 200px; margin-top: 200px;"/>
 
 ### 👨‍💻 Who I Am
 - 💻 Full-stack developer turning ideas into real-world apps
 - 🧠 Passionate about clean code, scalable systems & user-first UI/UX
-- 🔧 Skilled in React, Express, TypeScript, MongoDB, PostgreSQL, Tailwind, React Query, Prisma, Socket.IO
+- 🔧 Skilled in React, Express, TypeScript, MongoDB, PostgreSQL, Tailwind
 - 📬 Reach me at: **mohamed.hany01@outlook.com**
 - 🔗 Portfolio: [mohamedhany.me](https://portfolio-blond-eight-81.vercel.app/)
 - 🧾 [Resume](https://drive.google.com/file/d/1ihzoO8IqwVptMlOd4iSf-uMZLOCHXYS5/view?usp=sharing)
@@ -22,13 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="filter: brightness(10);" />
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="40"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="40"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 ---
 
-### 🖌 Contribution Graph
+### 🖌️ Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake graph" />
 </p>
